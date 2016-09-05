@@ -1,0 +1,10 @@
+.mytextbox {
+  width: 200px;
+  height: 200px;
+  box-shadow: 2px 1px 95px 1px #2A4E6E;
+  margin: 5px;
+  background-color: teal;
+  padding: 10px;
+}
+
+
